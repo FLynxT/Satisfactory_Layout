@@ -23,4 +23,3 @@ For more information, please contact me at [my email](mailto:felixtan1999@gmail.
 ## Additional Resources
 - [Satisfactory Calculator/Interactive Map](https://satisfactory-calculator.com/)
 - [Satisfactory Wiki](https://satisfactory.fandom.com/wiki/Satisfactory_Wiki)
-- [My Twitter](https://twitter.com/yourusername)
