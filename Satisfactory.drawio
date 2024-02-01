@@ -1,27 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T10:13:27.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aNZQGpYbE-CqrSAL19nn" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T01:19:24.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GVK9tL48Ut2w1eVG1B0X" version="23.0.2" type="github">
   <diagram name="Steel I" id="jZe_JqN8-TlA7-YUlp_m">
-    <mxGraphModel dx="759" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1587" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-8" value="Miner MK 2 (150%)&lt;br&gt;Coal (Pure)&lt;br&gt;270/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-14">
-          <mxGeometry y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-9" value="13,5 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-14">
-          <mxGeometry width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="150" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-2" value="Miner MK 2 (150%)&lt;br&gt;Iron Ore (Pure)&lt;br&gt;270/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-21">
-          <mxGeometry y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-10" value="13.5 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-21">
-          <mxGeometry width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Wl_ogfw9vnNZ51JvRlCD-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wl_ogfw9vnNZ51JvRlCD-22" target="Wl_ogfw9vnNZ51JvRlCD-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -110,8 +92,71 @@
         <mxCell id="Wl_ogfw9vnNZ51JvRlCD-49" value="MK 2&lt;br&gt;90/min" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="505" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-57" value="Foundry (100%)&lt;br&gt;Steel Ingot&lt;br&gt;45/min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-8" value="Miner MK 2 (150%)&lt;br&gt;Coal (Pure)&lt;br&gt;270/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-9" value="13,5 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-64" value="13,5 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-2" value="Miner MK 2 (150%)&lt;br&gt;Iron Ore (Pure)&lt;br&gt;270/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="190" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-58" value="16 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-68">
+          <mxGeometry width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-63" value="Foundry (100%)&lt;br&gt;Steel Ingot&lt;br&gt;45/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-68">
+          <mxGeometry x="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-62" value="Foundry (100%)&lt;br&gt;Steel Ingot&lt;br&gt;45/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-69">
+          <mxGeometry x="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-66" value="16 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-69">
+          <mxGeometry width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-57" value="Foundry (100%)&lt;br&gt;Steel Ingot&lt;br&gt;45/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-70">
+          <mxGeometry x="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-67" value="16 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-70">
+          <mxGeometry width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-72" value="16 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-71">
+          <mxGeometry width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-73" value="Foundry (100%)&lt;br&gt;Steel Ingot&lt;br&gt;45/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-71">
+          <mxGeometry x="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="390" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-75" value="Foundry (100%)&lt;br&gt;Steel Ingot&lt;br&gt;45/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-74">
+          <mxGeometry x="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-76" value="16 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-74">
+          <mxGeometry width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-78" value="Foundry (100%)&lt;br&gt;Steel Ingot&lt;br&gt;45/min" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-77">
+          <mxGeometry x="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl_ogfw9vnNZ51JvRlCD-79" value="16 MW" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="Wl_ogfw9vnNZ51JvRlCD-77">
+          <mxGeometry width="30" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
